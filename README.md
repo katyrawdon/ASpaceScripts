@@ -2,7 +2,7 @@
 
 **John Hopkins University:**
 
-[eadToCsv.py](https://github.com/katyrawdon/SCRC_ASpaceScripts/blob/main/JHUeadToCsv.py]: Based on a specified file name and a specified file path, this script extracts selected elements from an EAD XML file and prints them to a CSV file.
+[eadToCsv.py](https://github.com/katyrawdon/SCRC_ASpaceScripts/blob/main/JHUeadToCsv.py): Based on a specified file name and a specified file path, this script extracts selected elements from an EAD XML file and prints them to a CSV file.
 
 **Rice University Woodson Special Collections:**
 

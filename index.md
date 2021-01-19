@@ -1,6 +1,6 @@
 # ArchivesSpace Scripts
 
-This documentation will tell you how and when to use the scripts in this GitHub repository. If you have questions, email [Katy](krawdon@temple.edu).
+This documentation will tell you how and when to use the scripts in this GitHub repository. If you have questions, contact [Katy](https://github.com/katyrawdon).
 
 ### Where did these scripts come from?
 

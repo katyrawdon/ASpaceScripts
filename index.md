@@ -8,14 +8,9 @@ These scripts were pulled from a variety of insitutions that use ArchivesSpace. 
 
 Many of these institutions have their own GitHub repositories with many additional scripts.
 
+- link to repos
+- link to repos
+
+### How do I use these scripts at Temple? 
 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
